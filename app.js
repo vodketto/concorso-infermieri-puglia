@@ -60,10 +60,15 @@ fetch('candidati.json')
       const row = document.createElement('tr');
       row.dataset.codice = c.codice.toUpperCase();
 
+let punteggioHtml = c.punteggio.toFixed(2);
+
+if (c.codice === "D-29457") {
+  punteggioHtml += " ❤️";
+}
       row.innerHTML = `
         <td>${index + 1}</td>
         <td>${c.codice}</td>
-        <td>${c.punteggio.toFixed(2)}</td>
+        <td>${punteggioHtml}</td>
         <td>${c.turno}</td>
         <td>${esito}</td>
       `;
