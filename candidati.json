@@ -39253,5 +39253,15 @@
     "codice": "C-27033",
     "punteggio": 1.1,
     "turno": 4
+  },
+  {
+    "codice": "N-33672",
+    "punteggio": -0.59,
+    "turno": 2
+  },
+  {
+    "codice": "B-14101",
+    "punteggio": -1.92,
+    "turno": 4
   }
 ]
