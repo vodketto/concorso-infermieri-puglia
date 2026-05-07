@@ -301,6 +301,17 @@ footer {
   background: #1e3a8a;
 }
 
+header a {
+  color: #dbeafe;
+  text-decoration: none;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+header a:hover {
+  background: rgba(255,255,255,0.15);
+}
+
 
 
 
