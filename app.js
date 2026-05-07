@@ -60,7 +60,6 @@ fetch('candidati.json')
       const row = document.createElement('tr');
       row.dataset.codice = c.codice.toUpperCase();
 
-
       row.innerHTML = `
         <td>${index + 1}</td>
         <td>${c.codice}</td>
