@@ -312,6 +312,24 @@ header a:hover {
   background: rgba(255,255,255,0.15);
 }
 
+.doc-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f1f5f9;
+  padding: 14px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #1e40af;
+  font-weight: 500;
+}
+
+.doc-item::after {
+  content: "⬇️";
+  font-size: 0.9rem;
+}
+
+
 
 
 
