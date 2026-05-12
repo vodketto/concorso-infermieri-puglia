@@ -11,7 +11,7 @@ fetch('candidati.json')
                   minute: '2-digit'
                 });
 
-	document.getElementById('ultimo-aggiornamento').innerText = dataOra;
+	// document.getElementById('ultimo-aggiornamento').innerText = dataOra;
 
 	  
 	// === STATISTICHE GENERALI ===
