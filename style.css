@@ -329,6 +329,32 @@ header a:hover {
   font-size: 0.9rem;
 }
 
+.pagination {
+  text-align: center;
+  margin: 20px 0 30px 0;
+}
+
+.pagination button {
+  padding: 8px 14px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 6px;
+  background: #1e40af;
+  color: white;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.pagination button:hover {
+  background: #1e3a8a;
+}
+
+.pagination button:disabled {
+  background: #93c5fd;
+  cursor: not-allowed;
+}
+``
+
 
 
 
