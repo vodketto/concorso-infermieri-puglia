@@ -353,7 +353,16 @@ header a:hover {
   background: #93c5fd;
   cursor: not-allowed;
 }
-``
+
+.orale-presente {
+    color: #16a34a;
+    font-weight: 700;
+}
+
+.orale-assente {
+    color: #dc2626;
+    font-weight: 700;
+}
 
 
 
