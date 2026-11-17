@@ -65,9 +65,9 @@ function renderTable() {
 
   pageData.forEach((candidato, index) => {
 
-    const posizioneReale =
+const posizioneReale =
     originalData.findIndex(
-        candidato => candidato.codice === c.codice
+        x => x.codice === candidato.codice
     ) + 1;
     
     const oraleClass =
