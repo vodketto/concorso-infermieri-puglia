@@ -65,6 +65,11 @@ function renderTable() {
 
   pageData.forEach((candidato, index) => {
 
+    const posizioneReale =
+    originalData.findIndex(
+        candidato => candidato.codice === c.codice
+    ) + 1;
+    
     const oraleClass =
       candidato.orale > 0
         ? "orale-presente"
@@ -73,7 +78,7 @@ function renderTable() {
     const row = document.createElement("tr");
 
     row.innerHTML = `
-      <td>${start + index + 1}</td>
+      <td>${posizioneReale}</td>
       <td>${candidato.codice}</td>
       <td>${candidato.scritta.toFixed(2)}</td>
       <td>${candidato.pratica.toFixed(2)}</td>
