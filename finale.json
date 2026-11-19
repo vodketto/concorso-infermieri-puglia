@@ -1,6 +1,6 @@
 {
   "meta": {
-    "aggiornato_il": "2026-11-17 16:13",
+    "aggiornato_il": "2026-11-19 15:17",
     "totale_candidati": 4645
   },
   "candidati": [
@@ -1085,6 +1085,26 @@
       "totale": 70.0
     },
     {
+      "codice": "G-22158",
+      "barcode": "199108757",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "G-23489",
+      "barcode": "199109632",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
       "codice": "G-23709",
       "barcode": "199110921",
       "esito_scritta": "AMMESSO",
@@ -1105,8 +1125,138 @@
       "totale": 70.0
     },
     {
+      "codice": "G-26231",
+      "barcode": "199111978",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
       "codice": "G-28720",
       "barcode": "199107858",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "I-13640",
+      "barcode": "199111534",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "I-16515",
+      "barcode": "199108766",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "I-25506",
+      "barcode": "199111646",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "I-25569",
+      "barcode": "199108942",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-14661",
+      "barcode": "199110062",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-16668",
+      "barcode": "199110859",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-25126",
+      "barcode": "199111523",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-25533",
+      "barcode": "199108735",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-25647",
+      "barcode": "199111935",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-25892",
+      "barcode": "199111713",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-27343",
+      "barcode": "199108540",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 70.0
+    },
+    {
+      "codice": "L-32139",
+      "barcode": "199108955",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 30.0,
@@ -2425,6 +2575,16 @@
       "totale": 69.0
     },
     {
+      "codice": "G-16545",
+      "barcode": "199108597",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 69.0
+    },
+    {
       "codice": "G-16596",
       "barcode": "199110654",
       "esito_scritta": "AMMESSO",
@@ -2432,6 +2592,16 @@
       "scritta": 29.0,
       "pratica": 20.0,
       "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "G-16987",
+      "barcode": "199110853",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 19.0,
       "totale": 69.0
     },
     {
@@ -2465,6 +2635,26 @@
       "totale": 69.0
     },
     {
+      "codice": "G-25251",
+      "barcode": "199108426",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "G-25305",
+      "barcode": "199106701",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
       "codice": "G-26268",
       "barcode": "199111930",
       "esito_scritta": "AMMESSO",
@@ -2477,6 +2667,216 @@
     {
       "codice": "G-26600",
       "barcode": "199108948",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "G-31891",
+      "barcode": "199111590",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "I-13789",
+      "barcode": "199108437",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "I-17422",
+      "barcode": "199106512",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "I-28464",
+      "barcode": "199110519",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "I-29038",
+      "barcode": "199110032",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "I-32151",
+      "barcode": "199111655",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-13488",
+      "barcode": "199108530",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-13911",
+      "barcode": "199106524",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-14151",
+      "barcode": "199111858",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-14310",
+      "barcode": "199111758",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-17153",
+      "barcode": "199111726",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-21329",
+      "barcode": "199108721",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-22751",
+      "barcode": "199106890",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-23592",
+      "barcode": "199111609",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-24212",
+      "barcode": "199108970",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-25811",
+      "barcode": "199108753",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-26618",
+      "barcode": "199111557",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-28835",
+      "barcode": "199108842",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-29871",
+      "barcode": "199111918",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-31911",
+      "barcode": "199108641",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 69.0
+    },
+    {
+      "codice": "L-13928",
+      "barcode": "199107568",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
@@ -4245,6 +4645,26 @@
       "totale": 68.0
     },
     {
+      "codice": "G-14002",
+      "barcode": "199111682",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "G-17478",
+      "barcode": "199111940",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
       "codice": "G-24072",
       "barcode": "199110007",
       "esito_scritta": "AMMESSO",
@@ -4265,6 +4685,16 @@
       "totale": 68.0
     },
     {
+      "codice": "G-24555",
+      "barcode": "199108522",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 68.0
+    },
+    {
       "codice": "G-25084",
       "barcode": "199108866",
       "esito_scritta": "AMMESSO",
@@ -4272,6 +4702,16 @@
       "scritta": 29.0,
       "pratica": 20.0,
       "orale": 19.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "G-26381",
+      "barcode": "199108950",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
       "totale": 68.0
     },
     {
@@ -4312,6 +4752,226 @@
       "scritta": 30.0,
       "pratica": 18.0,
       "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "G-29073",
+      "barcode": "199110840",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "G-33331",
+      "barcode": "199110896",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "I-17857",
+      "barcode": "199108806",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "I-24507",
+      "barcode": "199110670",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "I-24598",
+      "barcode": "199108749",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "I-25756",
+      "barcode": "199111804",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "I-25867",
+      "barcode": "199106646",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "I-28897",
+      "barcode": "199108784",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-13467",
+      "barcode": "199110055",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-14153",
+      "barcode": "199111519",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-14213",
+      "barcode": "199111724",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-16577",
+      "barcode": "199108977",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-16720",
+      "barcode": "199111607",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-17075",
+      "barcode": "199107535",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-21333",
+      "barcode": "199107650",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-22344",
+      "barcode": "199106841",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-26512",
+      "barcode": "199108953",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-27307",
+      "barcode": "199111598",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-28435",
+      "barcode": "199111560",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-28456",
+      "barcode": "199108843",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-29070",
+      "barcode": "199106689",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 68.0
+    },
+    {
+      "codice": "L-30476",
+      "barcode": "199108877",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 18.0,
       "totale": 68.0
     },
     {
@@ -5945,6 +6605,26 @@
       "totale": 67.0
     },
     {
+      "codice": "G-13392",
+      "barcode": "199109583",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "G-13439",
+      "barcode": "199108819",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
       "codice": "G-13654",
       "barcode": "199109524",
       "esito_scritta": "AMMESSO",
@@ -6015,6 +6695,16 @@
       "totale": 67.0
     },
     {
+      "codice": "G-20631",
+      "barcode": "199108730",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
       "codice": "G-22178",
       "barcode": "199106867",
       "esito_scritta": "AMMESSO",
@@ -6037,6 +6727,26 @@
     {
       "codice": "G-23424",
       "barcode": "199108964",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "G-25350",
+      "barcode": "199110072",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "G-25529",
+      "barcode": "199111927",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
@@ -6075,6 +6785,16 @@
       "totale": 67.0
     },
     {
+      "codice": "G-26535",
+      "barcode": "199110877",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
       "codice": "G-26616",
       "barcode": "199106757",
       "esito_scritta": "AMMESSO",
@@ -6091,6 +6811,16 @@
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
       "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "G-27725",
+      "barcode": "199106900",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
       "orale": 20.0,
       "totale": 67.0
     },
@@ -6112,6 +6842,26 @@
       "scritta": 29.0,
       "pratica": 18.0,
       "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "G-31170",
+      "barcode": "199108881",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "G-31679",
+      "barcode": "199111705",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 19.0,
       "totale": 67.0
     },
     {
@@ -6137,6 +6887,226 @@
     {
       "codice": "G-32988",
       "barcode": "199108980",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-13351",
+      "barcode": "199108718",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-15253",
+      "barcode": "199111956",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-16770",
+      "barcode": "199111522",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-22570",
+      "barcode": "199110065",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-22946",
+      "barcode": "199110834",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-24850",
+      "barcode": "199110326",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-27288",
+      "barcode": "199107660",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-29019",
+      "barcode": "199108500",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "I-31697",
+      "barcode": "199110066",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "K-25283",
+      "barcode": "199106647",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-11670",
+      "barcode": "199110901",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-16930",
+      "barcode": "199111999",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-17432",
+      "barcode": "199108346",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-24120",
+      "barcode": "199111703",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-24757",
+      "barcode": "199108343",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-25226",
+      "barcode": "199109634",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-27326",
+      "barcode": "199106506",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-27475",
+      "barcode": "199111973",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-27932",
+      "barcode": "199106678",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-29790",
+      "barcode": "199110883",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-30538",
+      "barcode": "199111612",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 67.0
+    },
+    {
+      "codice": "L-11946",
+      "barcode": "199106579",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 27.0,
@@ -8175,6 +9145,16 @@
       "totale": 66.0
     },
     {
+      "codice": "G-13083",
+      "barcode": "199108434",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 66.0
+    },
+    {
       "codice": "G-13706",
       "barcode": "199108505",
       "esito_scritta": "AMMESSO",
@@ -8192,6 +9172,26 @@
       "scritta": 29.0,
       "pratica": 20.0,
       "orale": 17.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-14235",
+      "barcode": "199111653",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-14316",
+      "barcode": "199108509",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 18.0,
       "totale": 66.0
     },
     {
@@ -8221,6 +9221,16 @@
       "esito_pratica": "AMMESSO",
       "scritta": 30.0,
       "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-22088",
+      "barcode": "199110843",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
       "orale": 20.0,
       "totale": 66.0
     },
@@ -8255,6 +9265,16 @@
       "totale": 66.0
     },
     {
+      "codice": "G-25337",
+      "barcode": "199110913",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
       "codice": "G-26657",
       "barcode": "199108340",
       "esito_scritta": "AMMESSO",
@@ -8275,6 +9295,36 @@
       "totale": 66.0
     },
     {
+      "codice": "G-27626",
+      "barcode": "199111991",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-28304",
+      "barcode": "199110008",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-28539",
+      "barcode": "199111680",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 66.0
+    },
+    {
       "codice": "G-29298",
       "barcode": "199108331",
       "esito_scritta": "AMMESSO",
@@ -8292,6 +9342,26 @@
       "scritta": 30.0,
       "pratica": 18.0,
       "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-29560",
+      "barcode": "199106997",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "G-29629",
+      "barcode": "199108944",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 16.0,
       "totale": 66.0
     },
     {
@@ -8332,6 +9402,236 @@
       "scritta": 30.0,
       "pratica": 20.0,
       "orale": 16.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "H-28032",
+      "barcode": "199111515",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-17556",
+      "barcode": "199108157",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-24261",
+      "barcode": "199107901",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-24795",
+      "barcode": "199111671",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-26246",
+      "barcode": "199106996",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-27057",
+      "barcode": "199108725",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-28160",
+      "barcode": "199108332",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-28476",
+      "barcode": "199108237",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-28485",
+      "barcode": "199108817",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "I-30286",
+      "barcode": "199110856",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-11924",
+      "barcode": "199108951",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-13882",
+      "barcode": "199110330",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-17601",
+      "barcode": "199111511",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-17660",
+      "barcode": "199108442",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-17830",
+      "barcode": "199106861",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-20251",
+      "barcode": "199111602",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-22803",
+      "barcode": "199108959",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-24473",
+      "barcode": "199110052",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-28741",
+      "barcode": "199111500",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-28866",
+      "barcode": "199108880",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-30164",
+      "barcode": "199110332",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-30525",
+      "barcode": "199110871",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 66.0
+    },
+    {
+      "codice": "L-13896",
+      "barcode": "199110251",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 20.0,
       "totale": 66.0
     },
     {
@@ -10175,6 +11475,16 @@
       "totale": 65.0
     },
     {
+      "codice": "G-14199",
+      "barcode": "199109526",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 65.0
+    },
+    {
       "codice": "G-16438",
       "barcode": "199111528",
       "esito_scritta": "AMMESSO",
@@ -10187,6 +11497,16 @@
     {
       "codice": "G-17290",
       "barcode": "199111552",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-21851",
+      "barcode": "199110830",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 28.0,
@@ -10255,6 +11575,16 @@
       "totale": 65.0
     },
     {
+      "codice": "G-24969",
+      "barcode": "199110377",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
       "codice": "G-25483",
       "barcode": "199111711",
       "esito_scritta": "AMMESSO",
@@ -10272,6 +11602,26 @@
       "scritta": 28.0,
       "pratica": 20.0,
       "orale": 17.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-26477",
+      "barcode": "199111798",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-26533",
+      "barcode": "199107537",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 18.0,
       "totale": 65.0
     },
     {
@@ -10315,6 +11665,36 @@
       "totale": 65.0
     },
     {
+      "codice": "G-28812",
+      "barcode": "199108247",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-29671",
+      "barcode": "199111800",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-30236",
+      "barcode": "199111719",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 65.0
+    },
+    {
       "codice": "G-30333",
       "barcode": "199110367",
       "esito_scritta": "AMMESSO",
@@ -10342,6 +11722,26 @@
       "scritta": 29.0,
       "pratica": 20.0,
       "orale": 16.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-30966",
+      "barcode": "199108254",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "G-30990",
+      "barcode": "199108335",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 18.0,
       "totale": 65.0
     },
     {
@@ -10375,6 +11775,226 @@
       "totale": 65.0
     },
     {
+      "codice": "I-14161",
+      "barcode": "199108517",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "I-22821",
+      "barcode": "199108533",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "I-23362",
+      "barcode": "199110637",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "I-24778",
+      "barcode": "199111987",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "I-29333",
+      "barcode": "199110053",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-13375",
+      "barcode": "199106697",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-13696",
+      "barcode": "199111795",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-14212",
+      "barcode": "199110410",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-16410",
+      "barcode": "199108709",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-16605",
+      "barcode": "199111681",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-17025",
+      "barcode": "199111939",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-21625",
+      "barcode": "199110655",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-24767",
+      "barcode": "199106690",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-25260",
+      "barcode": "199108973",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-26704",
+      "barcode": "199111856",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-27144",
+      "barcode": "199111783",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-27564",
+      "barcode": "199111801",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-27862",
+      "barcode": "199108731",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-28197",
+      "barcode": "199108981",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-28314",
+      "barcode": "199111673",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-28987",
+      "barcode": "199108748",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-33605",
+      "barcode": "199111535",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 65.0
+    },
+    {
       "codice": "L-23314",
       "barcode": "199111439",
       "esito_scritta": "AMMESSO",
@@ -10382,6 +12002,16 @@
       "scritta": 30.0,
       "pratica": 18.0,
       "orale": 17.0,
+      "totale": 65.0
+    },
+    {
+      "codice": "L-25181",
+      "barcode": "199107325",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 20.0,
+      "orale": 20.0,
       "totale": 65.0
     },
     {
@@ -11955,6 +13585,26 @@
       "totale": 64.0
     },
     {
+      "codice": "G-21641",
+      "barcode": "199110407",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 14.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-23171",
+      "barcode": "199109521",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 64.0
+    },
+    {
       "codice": "G-23460",
       "barcode": "199111530",
       "esito_scritta": "AMMESSO",
@@ -11995,6 +13645,16 @@
       "totale": 64.0
     },
     {
+      "codice": "G-24715",
+      "barcode": "199110010",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 64.0
+    },
+    {
       "codice": "G-25108",
       "barcode": "199108432",
       "esito_scritta": "AMMESSO",
@@ -12012,6 +13672,16 @@
       "scritta": 29.0,
       "pratica": 18.0,
       "orale": 17.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-26860",
+      "barcode": "199111749",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
       "totale": 64.0
     },
     {
@@ -12035,6 +13705,36 @@
       "totale": 64.0
     },
     {
+      "codice": "G-27904",
+      "barcode": "199108954",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-28708",
+      "barcode": "199111862",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-28819",
+      "barcode": "199108737",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 64.0
+    },
+    {
       "codice": "G-29224",
       "barcode": "199106787",
       "esito_scritta": "AMMESSO",
@@ -12045,6 +13745,26 @@
       "totale": 64.0
     },
     {
+      "codice": "G-29660",
+      "barcode": "199108743",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-29756",
+      "barcode": "199109637",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
       "codice": "G-30133",
       "barcode": "199108841",
       "esito_scritta": "AMMESSO",
@@ -12052,6 +13772,26 @@
       "scritta": 29.0,
       "pratica": 20.0,
       "orale": 15.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-30505",
+      "barcode": "199111547",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 20.0,
+      "orale": 14.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "G-30595",
+      "barcode": "199108344",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 20.0,
       "totale": 64.0
     },
     {
@@ -12077,6 +13817,196 @@
     {
       "codice": "G-33063",
       "barcode": "199109527",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "I-17102",
+      "barcode": "199108238",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "I-24490",
+      "barcode": "199110481",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "I-26651",
+      "barcode": "199111774",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "I-27105",
+      "barcode": "199106922",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "I-29464",
+      "barcode": "199111674",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "I-30345",
+      "barcode": "199111740",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "K-21946",
+      "barcode": "199111622",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-16527",
+      "barcode": "199111967",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-21795",
+      "barcode": "199108146",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-22361",
+      "barcode": "199108870",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-26327",
+      "barcode": "199110405",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-26988",
+      "barcode": "199108341",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-28610",
+      "barcode": "199108719",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-30412",
+      "barcode": "199111892",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 20.0,
+      "orale": 19.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-31110",
+      "barcode": "199111717",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-31407",
+      "barcode": "199110404",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-31620",
+      "barcode": "199111614",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-32599",
+      "barcode": "199111750",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 64.0
+    },
+    {
+      "codice": "L-25452",
+      "barcode": "199109330",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 27.0,
@@ -13385,6 +15315,46 @@
       "totale": 63.0
     },
     {
+      "codice": "G-21092",
+      "barcode": "199108518",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "G-23368",
+      "barcode": "199111503",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 17.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "G-24776",
+      "barcode": "199110852",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "G-24966",
+      "barcode": "199110394",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 63.0
+    },
+    {
       "codice": "G-25907",
       "barcode": "199110890",
       "esito_scritta": "AMMESSO",
@@ -13415,6 +15385,26 @@
       "totale": 63.0
     },
     {
+      "codice": "G-27408",
+      "barcode": "199111788",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "G-27858",
+      "barcode": "199110745",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
       "codice": "G-28264",
       "barcode": "199108287",
       "esito_scritta": "AMMESSO",
@@ -13425,12 +15415,42 @@
       "totale": 63.0
     },
     {
+      "codice": "G-30649",
+      "barcode": "199111577",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 14.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "G-31401",
+      "barcode": "199106860",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 63.0
+    },
+    {
       "codice": "G-31410",
       "barcode": "199106746",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 30.0,
       "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "G-31767",
+      "barcode": "199110077",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
       "orale": 15.0,
       "totale": 63.0
     },
@@ -13462,6 +15482,196 @@
       "scritta": 28.0,
       "pratica": 18.0,
       "orale": 17.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "I-13594",
+      "barcode": "199110836",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "I-18285",
+      "barcode": "199111760",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "I-22965",
+      "barcode": "199111677",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "I-23319",
+      "barcode": "199111890",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "I-31199",
+      "barcode": "199111670",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "I-32983",
+      "barcode": "199106520",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 20.0,
+      "orale": 14.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-17262",
+      "barcode": "199111672",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-21532",
+      "barcode": "199108770",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-2191",
+      "barcode": "199111737",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-23145",
+      "barcode": "199108890",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-23324",
+      "barcode": "199106753",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-27773",
+      "barcode": "199111916",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-28389",
+      "barcode": "199106929",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 20.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-28417",
+      "barcode": "199108438",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-28936",
+      "barcode": "199108508",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-30845",
+      "barcode": "199108245",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 18.0,
+      "orale": 20.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-31441",
+      "barcode": "199111785",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-31962",
+      "barcode": "199108156",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 63.0
+    },
+    {
+      "codice": "L-26284",
+      "barcode": "199107940",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 16.0,
       "totale": 63.0
     },
     {
@@ -14835,6 +17045,16 @@
       "totale": 62.0
     },
     {
+      "codice": "G-11558",
+      "barcode": "199108720",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 62.0
+    },
+    {
       "codice": "G-17559",
       "barcode": "199108800",
       "esito_scritta": "AMMESSO",
@@ -14895,6 +17115,16 @@
       "totale": 62.0
     },
     {
+      "codice": "G-24968",
+      "barcode": "199111617",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 62.0
+    },
+    {
       "codice": "G-25457",
       "barcode": "199108633",
       "esito_scritta": "AMMESSO",
@@ -14902,6 +17132,36 @@
       "scritta": 28.0,
       "pratica": 20.0,
       "orale": 14.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "G-25974",
+      "barcode": "199110828",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "G-26911",
+      "barcode": "199111932",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "G-28097",
+      "barcode": "199107540",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 15.0,
       "totale": 62.0
     },
     {
@@ -14915,6 +17175,16 @@
       "totale": 62.0
     },
     {
+      "codice": "G-28606",
+      "barcode": "199108628",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 62.0
+    },
+    {
       "codice": "G-29130",
       "barcode": "199107645",
       "esito_scritta": "AMMESSO",
@@ -14922,6 +17192,16 @@
       "scritta": 26.0,
       "pratica": 16.0,
       "orale": 20.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "G-31232",
+      "barcode": "199106699",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 20.0,
+      "orale": 15.0,
       "totale": 62.0
     },
     {
@@ -14942,6 +17222,216 @@
       "scritta": 27.0,
       "pratica": 16.0,
       "orale": 19.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "G-32859",
+      "barcode": "199109638",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "H-17281",
+      "barcode": "199108868",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-22640",
+      "barcode": "199108650",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-25984",
+      "barcode": "199110051",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-26644",
+      "barcode": "199106859",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-28540",
+      "barcode": "199111811",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-28928",
+      "barcode": "199106865",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-29119",
+      "barcode": "199110204",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 16.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-31909",
+      "barcode": "199111897",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "I-32263",
+      "barcode": "199111852",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "K-25185",
+      "barcode": "199111514",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "K-25592",
+      "barcode": "199108882",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-13081",
+      "barcode": "199110902",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-14279",
+      "barcode": "199106747",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-14281",
+      "barcode": "199110523",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-17185",
+      "barcode": "199106518",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 14.0,
+      "orale": 19.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-24219",
+      "barcode": "199108864",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-26001",
+      "barcode": "199108795",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-26816",
+      "barcode": "199108623",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-27493",
+      "barcode": "199108521",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 62.0
+    },
+    {
+      "codice": "L-29597",
+      "barcode": "199111744",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 18.0,
       "totale": 62.0
     },
     {
@@ -15865,6 +18355,16 @@
       "totale": 61.0
     },
     {
+      "codice": "G-13416",
+      "barcode": "199111712",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 61.0
+    },
+    {
       "codice": "G-13487",
       "barcode": "199106525",
       "esito_scritta": "AMMESSO",
@@ -15925,6 +18425,16 @@
       "totale": 61.0
     },
     {
+      "codice": "G-24944",
+      "barcode": "199111803",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 61.0
+    },
+    {
       "codice": "G-25691",
       "barcode": "199108407",
       "esito_scritta": "AMMESSO",
@@ -15965,6 +18475,16 @@
       "totale": 61.0
     },
     {
+      "codice": "G-29760",
+      "barcode": "199108449",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 19.0,
+      "totale": 61.0
+    },
+    {
       "codice": "G-30386",
       "barcode": "199108144",
       "esito_scritta": "AMMESSO",
@@ -15972,6 +18492,186 @@
       "scritta": 29.0,
       "pratica": 18.0,
       "orale": 14.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-12002",
+      "barcode": "199108412",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-17451",
+      "barcode": "199107648",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-22232",
+      "barcode": "199111539",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-24940",
+      "barcode": "199110067",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 30.0,
+      "pratica": 16.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-27027",
+      "barcode": "199108450",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 16.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-30843",
+      "barcode": "199111502",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "I-31469",
+      "barcode": "199108418",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "J-26414",
+      "barcode": "199108151",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-16538",
+      "barcode": "199108675",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-23116",
+      "barcode": "199111615",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-25954",
+      "barcode": "199111845",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-26139",
+      "barcode": "199106769",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-26784",
+      "barcode": "199111729",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-27508",
+      "barcode": "199111545",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-27741",
+      "barcode": "199110889",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-28119",
+      "barcode": "199111611",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-29160",
+      "barcode": "199111925",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 61.0
+    },
+    {
+      "codice": "L-31483",
+      "barcode": "199108525",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 20.0,
       "totale": 61.0
     },
     {
@@ -16565,6 +19265,16 @@
       "totale": 60.0
     },
     {
+      "codice": "G-21786",
+      "barcode": "199111961",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 20.0,
+      "orale": 15.0,
+      "totale": 60.0
+    },
+    {
       "codice": "G-26585",
       "barcode": "199110915",
       "esito_scritta": "AMMESSO",
@@ -16572,6 +19282,16 @@
       "scritta": 26.0,
       "pratica": 18.0,
       "orale": 16.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "G-26875",
+      "barcode": "199109522",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 14.0,
       "totale": 60.0
     },
     {
@@ -16585,6 +19305,16 @@
       "totale": 60.0
     },
     {
+      "codice": "G-29896",
+      "barcode": "199111657",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 60.0
+    },
+    {
       "codice": "G-32517",
       "barcode": "199106677",
       "esito_scritta": "AMMESSO",
@@ -16595,8 +19325,108 @@
       "totale": 60.0
     },
     {
+      "codice": "I-27853",
+      "barcode": "199108514",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 15.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "I-31844",
+      "barcode": "199111968",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "K-29142",
+      "barcode": "199110393",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 19.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-13655",
+      "barcode": "199108415",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 18.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-24368",
+      "barcode": "199110325",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 16.0,
+      "orale": 20.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-25383",
+      "barcode": "199110516",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 16.0,
+      "orale": 15.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-25582",
+      "barcode": "199108741",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-27529",
+      "barcode": "199108645",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 18.0,
+      "orale": 14.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-28920",
+      "barcode": "199106759",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 60.0
+    },
+    {
       "codice": "L-30027",
       "barcode": "199111775",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 60.0
+    },
+    {
+      "codice": "L-31382",
+      "barcode": "199107662",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 26.0,
@@ -17225,6 +20055,26 @@
       "totale": 59.0
     },
     {
+      "codice": "G-16617",
+      "barcode": "199111955",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 29.0,
+      "pratica": 14.0,
+      "orale": 16.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "G-22138",
+      "barcode": "199111777",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 16.0,
+      "totale": 59.0
+    },
+    {
       "codice": "G-23031",
       "barcode": "199111661",
       "esito_scritta": "AMMESSO",
@@ -17232,6 +20082,126 @@
       "scritta": 26.0,
       "pratica": 18.0,
       "orale": 15.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "G-26646",
+      "barcode": "199110327",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-23875",
+      "barcode": "199106713",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 22.0,
+      "pratica": 18.0,
+      "orale": 19.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-24357",
+      "barcode": "199108946",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-25467",
+      "barcode": "199108510",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 18.0,
+      "orale": 16.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-25990",
+      "barcode": "199111654",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 16.0,
+      "orale": 19.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-26841",
+      "barcode": "199110033",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 14.0,
+      "orale": 19.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-28697",
+      "barcode": "199110200",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 23.0,
+      "pratica": 18.0,
+      "orale": 18.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "I-33597",
+      "barcode": "199108152",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "L-13974",
+      "barcode": "199106870",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 16.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "L-16667",
+      "barcode": "199110071",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "L-28099",
+      "barcode": "199106881",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 18.0,
+      "totale": 59.0
+    },
+    {
+      "codice": "L-28805",
+      "barcode": "199106840",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 16.0,
       "totale": 59.0
     },
     {
@@ -17585,6 +20555,16 @@
       "totale": 58.0
     },
     {
+      "codice": "G-26729",
+      "barcode": "199106770",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 14.0,
+      "totale": 58.0
+    },
+    {
       "codice": "G-29981",
       "barcode": "199111593",
       "esito_scritta": "AMMESSO",
@@ -17592,6 +20572,156 @@
       "scritta": 27.0,
       "pratica": 14.0,
       "orale": 17.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "I-29064",
+      "barcode": "199111855",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 18.0,
+      "orale": 14.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "I-31712",
+      "barcode": "199106766",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 17.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "I-32788",
+      "barcode": "199106005",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-13947",
+      "barcode": "199108602",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-21543",
+      "barcode": "199108940",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 14.0,
+      "orale": 20.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-24415",
+      "barcode": "199108428",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 16.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-25097",
+      "barcode": "199108231",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 15.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-25295",
+      "barcode": "199108871",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-26842",
+      "barcode": "199106935",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 23.0,
+      "pratica": 18.0,
+      "orale": 17.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-27215",
+      "barcode": "199107812",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-27774",
+      "barcode": "199111990",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 16.0,
+      "orale": 18.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-28162",
+      "barcode": "199110892",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-29708",
+      "barcode": "199111911",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-29777",
+      "barcode": "199108985",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 58.0
+    },
+    {
+      "codice": "L-32215",
+      "barcode": "199110014",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 16.0,
       "totale": 58.0
     },
     {
@@ -17845,6 +20975,26 @@
       "totale": 57.0
     },
     {
+      "codice": "G-14118",
+      "barcode": "199106936",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 16.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "G-16740",
+      "barcode": "199108754",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 18.0,
+      "orale": 14.0,
+      "totale": 57.0
+    },
+    {
       "codice": "G-17582",
       "barcode": "199108648",
       "esito_scritta": "AMMESSO",
@@ -17875,6 +21025,86 @@
       "totale": 57.0
     },
     {
+      "codice": "G-31461",
+      "barcode": "199111943",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 18.0,
+      "orale": 15.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "I-28800",
+      "barcode": "199111524",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 16.0,
+      "orale": 17.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-11921",
+      "barcode": "199106681",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 15.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-13481",
+      "barcode": "199111569",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-16713",
+      "barcode": "199108447",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 15.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-17852",
+      "barcode": "199108519",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-23317",
+      "barcode": "199111906",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 14.0,
+      "orale": 17.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-24161",
+      "barcode": "199107848",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 14.0,
+      "orale": 18.0,
+      "totale": 57.0
+    },
+    {
       "codice": "L-29111",
       "barcode": "199108642",
       "esito_scritta": "AMMESSO",
@@ -17882,6 +21112,16 @@
       "scritta": 25.0,
       "pratica": 16.0,
       "orale": 16.0,
+      "totale": 57.0
+    },
+    {
+      "codice": "L-31177",
+      "barcode": "199111650",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 22.0,
+      "pratica": 16.0,
+      "orale": 19.0,
       "totale": 57.0
     },
     {
@@ -18035,6 +21275,56 @@
       "totale": 56.0
     },
     {
+      "codice": "H-23006",
+      "barcode": "199110538",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 26.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 56.0
+    },
+    {
+      "codice": "I-28338",
+      "barcode": "199111910",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 16.0,
+      "orale": 16.0,
+      "totale": 56.0
+    },
+    {
+      "codice": "K-26274",
+      "barcode": "199108516",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 16.0,
+      "orale": 15.0,
+      "totale": 56.0
+    },
+    {
+      "codice": "L-14215",
+      "barcode": "199108289",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 28.0,
+      "pratica": 14.0,
+      "orale": 14.0,
+      "totale": 56.0
+    },
+    {
+      "codice": "L-25835",
+      "barcode": "199111518",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 27.0,
+      "pratica": 14.0,
+      "orale": 15.0,
+      "totale": 56.0
+    },
+    {
       "codice": "B-26555",
       "barcode": "199106986",
       "esito_scritta": "AMMESSO",
@@ -18125,6 +21415,46 @@
       "totale": 55.0
     },
     {
+      "codice": "L-14217",
+      "barcode": "199108446",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 23.0,
+      "pratica": 14.0,
+      "orale": 18.0,
+      "totale": 55.0
+    },
+    {
+      "codice": "L-25491",
+      "barcode": "199108780",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 25.0,
+      "pratica": 16.0,
+      "orale": 14.0,
+      "totale": 55.0
+    },
+    {
+      "codice": "L-25745",
+      "barcode": "199108739",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 14.0,
+      "orale": 17.0,
+      "totale": 55.0
+    },
+    {
+      "codice": "L-31652",
+      "barcode": "199111616",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 14.0,
+      "orale": 17.0,
+      "totale": 55.0
+    },
+    {
       "codice": "A-26777",
       "barcode": "199110587",
       "esito_scritta": "AMMESSO",
@@ -18172,6 +21502,16 @@
       "scritta": 26.0,
       "pratica": 14.0,
       "orale": 14.0,
+      "totale": 54.0
+    },
+    {
+      "codice": "L-20114",
+      "barcode": "199111599",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 21.0,
+      "pratica": 16.0,
+      "orale": 17.0,
       "totale": 54.0
     },
     {
@@ -18275,6 +21615,16 @@
       "totale": 52.0
     },
     {
+      "codice": "L-25747",
+      "barcode": "199106833",
+      "esito_scritta": "AMMESSO",
+      "esito_pratica": "AMMESSO",
+      "scritta": 24.0,
+      "pratica": 14.0,
+      "orale": 14.0,
+      "totale": 52.0
+    },
+    {
       "codice": "C-27364",
       "barcode": "199105758",
       "esito_scritta": "AMMESSO",
@@ -18345,96 +21695,6 @@
       "totale": 50.0
     },
     {
-      "codice": "G-16545",
-      "barcode": "199108597",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-16987",
-      "barcode": "199110853",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-21641",
-      "barcode": "199110407",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-22158",
-      "barcode": "199108757",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-23489",
-      "barcode": "199109632",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-24555",
-      "barcode": "199108522",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-26231",
-      "barcode": "199111978",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-29629",
-      "barcode": "199108944",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "G-30505",
-      "barcode": "199111547",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
       "codice": "G-31888",
       "barcode": "199111658",
       "esito_scritta": "AMMESSO",
@@ -18447,286 +21707,6 @@
     {
       "codice": "I-10472",
       "barcode": "199107646",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-13640",
-      "barcode": "199111534",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-16515",
-      "barcode": "199108766",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-23362",
-      "barcode": "199110637",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-24778",
-      "barcode": "199111987",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-24850",
-      "barcode": "199110326",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-25506",
-      "barcode": "199111646",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-25569",
-      "barcode": "199108942",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-25756",
-      "barcode": "199111804",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-28160",
-      "barcode": "199108332",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "I-30286",
-      "barcode": "199110856",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-13488",
-      "barcode": "199108530",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-14213",
-      "barcode": "199111724",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-14661",
-      "barcode": "199110062",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-16668",
-      "barcode": "199110859",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-17153",
-      "barcode": "199111726",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-17432",
-      "barcode": "199108346",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-22344",
-      "barcode": "199106841",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-25126",
-      "barcode": "199111523",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-25533",
-      "barcode": "199108735",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-25647",
-      "barcode": "199111935",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-25892",
-      "barcode": "199111713",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-26618",
-      "barcode": "199111557",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-27144",
-      "barcode": "199111783",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-27343",
-      "barcode": "199108540",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-27932",
-      "barcode": "199106678",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-29070",
-      "barcode": "199106689",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-30476",
-      "barcode": "199108877",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 50.0
-    },
-    {
-      "codice": "L-32139",
-      "barcode": "199108955",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 30.0,
@@ -22865,106 +25845,6 @@
       "totale": 49.0
     },
     {
-      "codice": "G-13083",
-      "barcode": "199108434",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-13392",
-      "barcode": "199109583",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-25251",
-      "barcode": "199108426",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-25305",
-      "barcode": "199106701",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-28539",
-      "barcode": "199111680",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-28812",
-      "barcode": "199108247",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-28819",
-      "barcode": "199108737",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-29560",
-      "barcode": "199106997",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-30649",
-      "barcode": "199111577",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "G-31891",
-      "barcode": "199111590",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
       "codice": "I-11981",
       "barcode": "199108001",
       "esito_scritta": "AMMESSO",
@@ -22975,358 +25855,8 @@
       "totale": 49.0
     },
     {
-      "codice": "I-13351",
-      "barcode": "199108718",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-13789",
-      "barcode": "199108437",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-16770",
-      "barcode": "199111522",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-17422",
-      "barcode": "199106512",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-17857",
-      "barcode": "199108806",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-22570",
-      "barcode": "199110065",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-24507",
-      "barcode": "199110670",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
       "codice": "I-26247",
       "barcode": "199108403",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-27057",
-      "barcode": "199108725",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-27288",
-      "barcode": "199107660",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-28464",
-      "barcode": "199110519",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-28897",
-      "barcode": "199108784",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-29019",
-      "barcode": "199108500",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-29038",
-      "barcode": "199110032",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-32151",
-      "barcode": "199111655",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "I-32983",
-      "barcode": "199106520",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "K-25283",
-      "barcode": "199106647",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-13911",
-      "barcode": "199106524",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-14151",
-      "barcode": "199111858",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-14153",
-      "barcode": "199111519",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-14310",
-      "barcode": "199111758",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-21329",
-      "barcode": "199108721",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-21795",
-      "barcode": "199108146",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-22751",
-      "barcode": "199106890",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-23592",
-      "barcode": "199111609",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-24120",
-      "barcode": "199111703",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-24212",
-      "barcode": "199108970",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-25226",
-      "barcode": "199109634",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-25260",
-      "barcode": "199108973",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-25811",
-      "barcode": "199108753",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-28435",
-      "barcode": "199111560",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-28835",
-      "barcode": "199108842",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-28987",
-      "barcode": "199108748",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-29790",
-      "barcode": "199110883",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-29871",
-      "barcode": "199111918",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-31911",
-      "barcode": "199108641",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
@@ -23347,16 +25877,6 @@
     {
       "codice": "L-13497",
       "barcode": "199107157",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 49.0
-    },
-    {
-      "codice": "L-13928",
-      "barcode": "199107568",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
@@ -27127,396 +29647,6 @@
     {
       "codice": "G-11641",
       "barcode": "199106836",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-14002",
-      "barcode": "199111682",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-14316",
-      "barcode": "199108509",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-17478",
-      "barcode": "199111940",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-21851",
-      "barcode": "199110830",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-24715",
-      "barcode": "199110010",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-25337",
-      "barcode": "199110913",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-25350",
-      "barcode": "199110072",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-26381",
-      "barcode": "199108950",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-27626",
-      "barcode": "199111991",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-29073",
-      "barcode": "199110840",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-31679",
-      "barcode": "199111705",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-31767",
-      "barcode": "199110077",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "G-33331",
-      "barcode": "199110896",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "H-28032",
-      "barcode": "199111515",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-13594",
-      "barcode": "199110836",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-15253",
-      "barcode": "199111956",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-22821",
-      "barcode": "199108533",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-22946",
-      "barcode": "199110834",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-24598",
-      "barcode": "199108749",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-25867",
-      "barcode": "199106646",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-26246",
-      "barcode": "199106996",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "I-29464",
-      "barcode": "199111674",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-11670",
-      "barcode": "199110901",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-13467",
-      "barcode": "199110055",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-16577",
-      "barcode": "199108977",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-16720",
-      "barcode": "199111607",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-17075",
-      "barcode": "199107535",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-17601",
-      "barcode": "199111511",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-20251",
-      "barcode": "199111602",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-21333",
-      "barcode": "199107650",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-21625",
-      "barcode": "199110655",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-22803",
-      "barcode": "199108959",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-24473",
-      "barcode": "199110052",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-24767",
-      "barcode": "199106690",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-26512",
-      "barcode": "199108953",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-27307",
-      "barcode": "199111598",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-27773",
-      "barcode": "199111916",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-28456",
-      "barcode": "199108843",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 48.0
-    },
-    {
-      "codice": "L-28741",
-      "barcode": "199111500",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 28.0,
@@ -31515,118 +33645,8 @@
       "totale": 47.0
     },
     {
-      "codice": "G-13439",
-      "barcode": "199108819",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-14199",
-      "barcode": "199109526",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-20631",
-      "barcode": "199108730",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-23171",
-      "barcode": "199109521",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
       "codice": "G-23728",
       "barcode": "199111901",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-25529",
-      "barcode": "199111927",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-26477",
-      "barcode": "199111798",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-26533",
-      "barcode": "199107537",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-26535",
-      "barcode": "199110877",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-27725",
-      "barcode": "199106900",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-28097",
-      "barcode": "199107540",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-28304",
-      "barcode": "199110008",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 27.0,
@@ -31645,78 +33665,8 @@
       "totale": 47.0
     },
     {
-      "codice": "G-30990",
-      "barcode": "199108335",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-31170",
-      "barcode": "199108881",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "G-31232",
-      "barcode": "199106699",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
       "codice": "G-32614",
       "barcode": "199110845",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "I-14161",
-      "barcode": "199108517",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "I-22640",
-      "barcode": "199108650",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "I-24490",
-      "barcode": "199110481",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "I-24795",
-      "barcode": "199111671",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
@@ -31745,76 +33695,6 @@
       "totale": 47.0
     },
     {
-      "codice": "I-31697",
-      "barcode": "199110066",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "K-21946",
-      "barcode": "199111622",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "K-25185",
-      "barcode": "199111514",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-11924",
-      "barcode": "199108951",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-13375",
-      "barcode": "199106697",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-16605",
-      "barcode": "199111681",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-16930",
-      "barcode": "199111999",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
       "codice": "L-17044",
       "barcode": "199111841",
       "esito_scritta": "AMMESSO",
@@ -31825,112 +33705,12 @@
       "totale": 47.0
     },
     {
-      "codice": "L-2191",
-      "barcode": "199111737",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-23145",
-      "barcode": "199108890",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-24757",
-      "barcode": "199108343",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
       "codice": "L-26771",
       "barcode": "199111908",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
       "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-26988",
-      "barcode": "199108341",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-27326",
-      "barcode": "199106506",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-27475",
-      "barcode": "199111973",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-30164",
-      "barcode": "199110332",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-30538",
-      "barcode": "199111612",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-31110",
-      "barcode": "199111717",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-33605",
-      "barcode": "199111535",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
       "orale": 0,
       "totale": 47.0
     },
@@ -31961,16 +33741,6 @@
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
       "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-11946",
-      "barcode": "199106579",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
       "orale": 0,
       "totale": 47.0
     },
@@ -32161,16 +33931,6 @@
       "esito_pratica": "AMMESSO",
       "scritta": 29.0,
       "pratica": 18.0,
-      "orale": 0,
-      "totale": 47.0
-    },
-    {
-      "codice": "L-26284",
-      "barcode": "199107940",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 20.0,
       "orale": 0,
       "totale": 47.0
     },
@@ -35535,338 +37295,8 @@
       "totale": 46.0
     },
     {
-      "codice": "G-11558",
-      "barcode": "199108720",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-14235",
-      "barcode": "199111653",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-22088",
-      "barcode": "199110843",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-23368",
-      "barcode": "199111503",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-24776",
-      "barcode": "199110852",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-24966",
-      "barcode": "199110394",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-24969",
-      "barcode": "199110377",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-26875",
-      "barcode": "199109522",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-29660",
-      "barcode": "199108743",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "G-29671",
-      "barcode": "199111800",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
       "codice": "G-30373",
       "barcode": "199111970",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-12002",
-      "barcode": "199108412",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-17102",
-      "barcode": "199108238",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-17451",
-      "barcode": "199107648",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-17556",
-      "barcode": "199108157",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-22965",
-      "barcode": "199111677",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-24261",
-      "barcode": "199107901",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-24940",
-      "barcode": "199110067",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-27105",
-      "barcode": "199106922",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-28476",
-      "barcode": "199108237",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-28485",
-      "barcode": "199108817",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-29119",
-      "barcode": "199110204",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-29333",
-      "barcode": "199110053",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "I-30345",
-      "barcode": "199111740",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "J-26414",
-      "barcode": "199108151",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-13882",
-      "barcode": "199110330",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-14212",
-      "barcode": "199110410",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-14279",
-      "barcode": "199106747",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-14281",
-      "barcode": "199110523",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-16538",
-      "barcode": "199108675",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-17025",
-      "barcode": "199111939",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-17660",
-      "barcode": "199108442",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-17830",
-      "barcode": "199106861",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-25954",
-      "barcode": "199111845",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 28.0,
@@ -35885,128 +37315,8 @@
       "totale": 46.0
     },
     {
-      "codice": "L-26704",
-      "barcode": "199111856",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-26784",
-      "barcode": "199111729",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-27493",
-      "barcode": "199108521",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-27529",
-      "barcode": "199108645",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-27564",
-      "barcode": "199111801",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-27862",
-      "barcode": "199108731",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-28314",
-      "barcode": "199111673",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-28866",
-      "barcode": "199108880",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
       "codice": "L-30340",
       "barcode": "199106828",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-30525",
-      "barcode": "199110871",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-31407",
-      "barcode": "199110404",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-31441",
-      "barcode": "199111785",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 30.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-32599",
-      "barcode": "199111750",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 26.0,
@@ -36021,16 +37331,6 @@
       "esito_pratica": "AMMESSO",
       "scritta": 26.0,
       "pratica": 20.0,
-      "orale": 0,
-      "totale": 46.0
-    },
-    {
-      "codice": "L-13896",
-      "barcode": "199110251",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 18.0,
       "orale": 0,
       "totale": 46.0
     },
@@ -38855,196 +40155,6 @@
       "totale": 45.0
     },
     {
-      "codice": "G-21092",
-      "barcode": "199108518",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "G-21786",
-      "barcode": "199111961",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "G-25974",
-      "barcode": "199110828",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "G-27858",
-      "barcode": "199110745",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "G-27904",
-      "barcode": "199108954",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "G-30236",
-      "barcode": "199111719",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "G-30966",
-      "barcode": "199108254",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-25984",
-      "barcode": "199110051",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-27027",
-      "barcode": "199108450",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-27853",
-      "barcode": "199108514",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-28540",
-      "barcode": "199111811",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-28928",
-      "barcode": "199106865",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-30843",
-      "barcode": "199111502",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-31199",
-      "barcode": "199111670",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "I-31909",
-      "barcode": "199111897",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-13696",
-      "barcode": "199111795",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-16410",
-      "barcode": "199108709",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-21532",
-      "barcode": "199108770",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-22361",
-      "barcode": "199108870",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
       "codice": "L-23070",
       "barcode": "199107659",
       "esito_scritta": "AMMESSO",
@@ -39055,102 +40165,12 @@
       "totale": 45.0
     },
     {
-      "codice": "L-23324",
-      "barcode": "199106753",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-25383",
-      "barcode": "199110516",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-27741",
-      "barcode": "199110889",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-28197",
-      "barcode": "199108981",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-28389",
-      "barcode": "199106929",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-28417",
-      "barcode": "199108438",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-29160",
-      "barcode": "199111925",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-30412",
-      "barcode": "199111892",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
       "codice": "L-31291",
       "barcode": "199108815",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 27.0,
       "pratica": 18.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-31962",
-      "barcode": "199108156",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 16.0,
       "orale": 0,
       "totale": 45.0
     },
@@ -39245,32 +40265,12 @@
       "totale": 45.0
     },
     {
-      "codice": "L-25181",
-      "barcode": "199107325",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 20.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
       "codice": "L-25323",
       "barcode": "199107433",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 25.0,
       "pratica": 20.0,
-      "orale": 0,
-      "totale": 45.0
-    },
-    {
-      "codice": "L-25452",
-      "barcode": "199109330",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 18.0,
       "orale": 0,
       "totale": 45.0
     },
@@ -40875,36 +41875,6 @@
       "totale": 44.0
     },
     {
-      "codice": "G-26729",
-      "barcode": "199106770",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "G-26860",
-      "barcode": "199111749",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "G-26911",
-      "barcode": "199111932",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
       "codice": "G-27100",
       "barcode": "199111850",
       "esito_scritta": "AMMESSO",
@@ -40925,62 +41895,12 @@
       "totale": 44.0
     },
     {
-      "codice": "G-28606",
-      "barcode": "199108628",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "G-28708",
-      "barcode": "199111862",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "G-29756",
-      "barcode": "199109637",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "G-30595",
-      "barcode": "199108344",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
       "codice": "G-30668",
       "barcode": "199106508",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 26.0,
       "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "G-31401",
-      "barcode": "199106860",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
       "orale": 0,
       "totale": 44.0
     },
@@ -40995,128 +41915,8 @@
       "totale": 44.0
     },
     {
-      "codice": "I-18285",
-      "barcode": "199111760",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "I-23319",
-      "barcode": "199111890",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
       "codice": "I-24861",
       "barcode": "199108751",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "I-26644",
-      "barcode": "199106859",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "I-26651",
-      "barcode": "199111774",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "I-29064",
-      "barcode": "199111855",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "K-25592",
-      "barcode": "199108882",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-16527",
-      "barcode": "199111967",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-16667",
-      "barcode": "199110071",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-17262",
-      "barcode": "199111672",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-25295",
-      "barcode": "199108871",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-26001",
-      "barcode": "199108795",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-26327",
-      "barcode": "199110405",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 26.0,
@@ -41135,72 +41935,12 @@
       "totale": 44.0
     },
     {
-      "codice": "L-28610",
-      "barcode": "199108719",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-28920",
-      "barcode": "199106759",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
       "codice": "L-29409",
       "barcode": "199110199",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 24.0,
       "pratica": 20.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-29597",
-      "barcode": "199111744",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-29708",
-      "barcode": "199111911",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-29777",
-      "barcode": "199108985",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 44.0
-    },
-    {
-      "codice": "L-31620",
-      "barcode": "199111614",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 18.0,
       "orale": 0,
       "totale": 44.0
     },
@@ -42615,222 +43355,12 @@
       "totale": 43.0
     },
     {
-      "codice": "G-16617",
-      "barcode": "199111955",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "G-16740",
-      "barcode": "199108754",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "G-22138",
-      "barcode": "199111777",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "G-24968",
-      "barcode": "199111617",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "G-27408",
-      "barcode": "199111788",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "H-17281",
-      "barcode": "199108868",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "I-25467",
-      "barcode": "199108510",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "I-31469",
-      "barcode": "199108418",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "I-31844",
-      "barcode": "199111968",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-13481",
-      "barcode": "199111569",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-13974",
-      "barcode": "199106870",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-17185",
-      "barcode": "199106518",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 29.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-17852",
-      "barcode": "199108519",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-25097",
-      "barcode": "199108231",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-25582",
-      "barcode": "199108741",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-26139",
-      "barcode": "199106769",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-27508",
-      "barcode": "199111545",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-28162",
-      "barcode": "199110892",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-28805",
-      "barcode": "199106840",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-28936",
-      "barcode": "199108508",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
       "codice": "L-29217",
       "barcode": "199108794",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 27.0,
       "pratica": 16.0,
-      "orale": 0,
-      "totale": 43.0
-    },
-    {
-      "codice": "L-30845",
-      "barcode": "199108245",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 18.0,
       "orale": 0,
       "totale": 43.0
     },
@@ -43735,186 +44265,6 @@
       "totale": 42.0
     },
     {
-      "codice": "G-13416",
-      "barcode": "199111712",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "G-24944",
-      "barcode": "199111803",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "G-26646",
-      "barcode": "199110327",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "G-29760",
-      "barcode": "199108449",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "G-31461",
-      "barcode": "199111943",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "G-32859",
-      "barcode": "199109638",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "H-23006",
-      "barcode": "199110538",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "I-22232",
-      "barcode": "199111539",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "I-32263",
-      "barcode": "199111852",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-11921",
-      "barcode": "199106681",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-13081",
-      "barcode": "199110902",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-13655",
-      "barcode": "199108415",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-14215",
-      "barcode": "199108289",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-16713",
-      "barcode": "199108447",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-24219",
-      "barcode": "199108864",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-24415",
-      "barcode": "199108428",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-26816",
-      "barcode": "199108623",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 28.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
-      "codice": "L-32215",
-      "barcode": "199110014",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 42.0
-    },
-    {
       "codice": "L-32486",
       "barcode": "199106806",
       "esito_scritta": "AMMESSO",
@@ -44465,16 +44815,6 @@
       "totale": 41.0
     },
     {
-      "codice": "G-14118",
-      "barcode": "199106936",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
       "codice": "G-27713",
       "barcode": "199111660",
       "esito_scritta": "AMMESSO",
@@ -44495,56 +44835,6 @@
       "totale": 41.0
     },
     {
-      "codice": "I-28697",
-      "barcode": "199110200",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 23.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "I-31712",
-      "barcode": "199106766",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "I-33597",
-      "barcode": "199108152",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "K-26274",
-      "barcode": "199108516",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "K-29142",
-      "barcode": "199110393",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
       "codice": "L-12054",
       "barcode": "199108158",
       "esito_scritta": "AMMESSO",
@@ -44555,98 +44845,8 @@
       "totale": 41.0
     },
     {
-      "codice": "L-13947",
-      "barcode": "199108602",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-23116",
-      "barcode": "199111615",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-25491",
-      "barcode": "199108780",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-25835",
-      "barcode": "199111518",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-26842",
-      "barcode": "199106935",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 23.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-27215",
-      "barcode": "199107812",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-28099",
-      "barcode": "199106881",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-28119",
-      "barcode": "199111611",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
       "codice": "L-28750",
       "barcode": "199108872",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 27.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 41.0
-    },
-    {
-      "codice": "L-31483",
-      "barcode": "199108525",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 27.0,
@@ -45035,82 +45235,12 @@
       "totale": 40.0
     },
     {
-      "codice": "G-29896",
-      "barcode": "199111657",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
       "codice": "G-31008",
       "barcode": "199111525",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "AMMESSO",
       "scritta": 26.0,
       "pratica": 14.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "I-23875",
-      "barcode": "199106713",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 22.0,
-      "pratica": 18.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "I-24357",
-      "barcode": "199108946",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "I-25990",
-      "barcode": "199111654",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "I-26841",
-      "barcode": "199110033",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "I-28338",
-      "barcode": "199111910",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "I-28800",
-      "barcode": "199111524",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 16.0,
       "orale": 0,
       "totale": 40.0
     },
@@ -45145,36 +45275,6 @@
       "totale": 40.0
     },
     {
-      "codice": "L-23317",
-      "barcode": "199111906",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "L-24368",
-      "barcode": "199110325",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "L-27774",
-      "barcode": "199111990",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
       "codice": "L-28775",
       "barcode": "199111860",
       "esito_scritta": "AMMESSO",
@@ -45191,16 +45291,6 @@
       "esito_pratica": "AMMESSO",
       "scritta": 24.0,
       "pratica": 16.0,
-      "orale": 0,
-      "totale": 40.0
-    },
-    {
-      "codice": "L-31382",
-      "barcode": "199107662",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 26.0,
-      "pratica": 14.0,
       "orale": 0,
       "totale": 40.0
     },
@@ -45545,16 +45635,6 @@
       "totale": 39.0
     },
     {
-      "codice": "L-24161",
-      "barcode": "199107848",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 25.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 39.0
-    },
-    {
       "codice": "L-27008",
       "barcode": "199107538",
       "esito_scritta": "AMMESSO",
@@ -45795,32 +45875,12 @@
       "totale": 38.0
     },
     {
-      "codice": "I-32788",
-      "barcode": "199106005",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 38.0
-    },
-    {
       "codice": "I-33099",
       "barcode": "199108769",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "NON AMMESSO",
       "scritta": 28.0,
       "pratica": 10.0,
-      "orale": 0,
-      "totale": 38.0
-    },
-    {
-      "codice": "L-21543",
-      "barcode": "199108940",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 14.0,
       "orale": 0,
       "totale": 38.0
     },
@@ -45855,52 +45915,12 @@
       "totale": 38.0
     },
     {
-      "codice": "L-25745",
-      "barcode": "199108739",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 38.0
-    },
-    {
-      "codice": "L-25747",
-      "barcode": "199106833",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 38.0
-    },
-    {
       "codice": "L-29171",
       "barcode": "199108000",
       "esito_scritta": "AMMESSO",
       "esito_pratica": "NON AMMESSO",
       "scritta": 26.0,
       "pratica": 12.0,
-      "orale": 0,
-      "totale": 38.0
-    },
-    {
-      "codice": "L-31177",
-      "barcode": "199111650",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 22.0,
-      "pratica": 16.0,
-      "orale": 0,
-      "totale": 38.0
-    },
-    {
-      "codice": "L-31652",
-      "barcode": "199111616",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 24.0,
-      "pratica": 14.0,
       "orale": 0,
       "totale": 38.0
     },
@@ -46081,26 +46101,6 @@
       "esito_pratica": "NON AMMESSO",
       "scritta": 25.0,
       "pratica": 12.0,
-      "orale": 0,
-      "totale": 37.0
-    },
-    {
-      "codice": "L-14217",
-      "barcode": "199108446",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 23.0,
-      "pratica": 14.0,
-      "orale": 0,
-      "totale": 37.0
-    },
-    {
-      "codice": "L-20114",
-      "barcode": "199111599",
-      "esito_scritta": "AMMESSO",
-      "esito_pratica": "AMMESSO",
-      "scritta": 21.0,
-      "pratica": 16.0,
       "orale": 0,
       "totale": 37.0
     },
